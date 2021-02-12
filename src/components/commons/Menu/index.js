@@ -1,7 +1,7 @@
 import React from 'react';
 import { Logo } from '../Theme/Logo/index.js';
 import { Button } from '../Button';
-import { MenuWrapper } from './styles/MenuWrapper';
+import { MenuWrapper } from './Styles/MenuWrapper';
 
 export default function Menu() {
   return (
