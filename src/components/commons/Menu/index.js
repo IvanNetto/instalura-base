@@ -1,7 +1,7 @@
 import React from 'react';
 import { Logo } from '../../../Theme/Logo';
 import { Button } from '../Button';
-import { MenuWrapper } from './styles/MenuWrapper';
+import { MenuWrapper } from './Styles/menuWrapper';
 
 export default function Menu() {
   return (
@@ -33,3 +33,4 @@ export default function Menu() {
     </MenuWrapper>
   );
 }
+
