@@ -1,5 +1,5 @@
 import { createGlobalStyle, ThemeProvider } from 'styled-components'
-import theme from '../src/theme';
+import theme from '../src/Theme';
 
 const GlobalStyle = createGlobalStyle`
   body {
