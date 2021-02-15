@@ -4,8 +4,7 @@
   "scripts": {
     "dev": "next -p 3001",
     "build": "next build",
-    "export": "next build && next export",
-    "start": "next start"
+    "export": "next build && next export"    
   },
   "dependencies": {
     "lodash": "^4.17.20",
@@ -13,7 +12,8 @@
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
     "react-is": "^16.8.0",
-    "styled-components": "^5.0.0"    
+    "styled-components": "^5.0.0"    ,
+    "styled-normalize": "^8.0.7"
   },
   "devDependencies": {
     "babel-plugin-styled-components": "^1.8.0"
