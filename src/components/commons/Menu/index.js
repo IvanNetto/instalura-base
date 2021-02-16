@@ -2,7 +2,7 @@ import React from 'react';
 import { Logo } from '../../../Theme/Logo';
 import { Text } from '../../foundation/Text';
 import { Button } from '../Button';
-import { MenuWrapper } from './styles/MenuWrapper';
+import { MenuWrapper } from './Styles/MenuWrapper';
 
 export default function Menu() {
   return (
